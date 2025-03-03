@@ -8,6 +8,8 @@
 <a href="https://instagram.com/trezen_parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trezen_parmar" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Have a look at some of my projects, stay alert some might scare you. 👻 </h3>
+
 <!--
 <h3 align="left">Languages and Tools:</h3>
 
