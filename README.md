@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Trezen</h1>
-<h3 align="center">I am currently working as an Embedded Engineer 💻😉.</h3>
+<h1 align="center">Hi 👋, I'm Trezen 🦸‍♂️</h1>
+<h2 align="center">Welcome to my GitHub Page. 🤩</h2>
+<h3 align="center">I am an Embedded Engineer + Enthusiast 💻😉. I like to explore and learn more about various possibilities in Embedded world. 🌐</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
